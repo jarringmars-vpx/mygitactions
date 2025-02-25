@@ -5,4 +5,4 @@ This is for the YouTube Tutorial: <https://www.youtube.com/watch?v=mFFXuXjVgkU>
 ## Updates
 Fix: Changed SuperLinter from v3 to v4 to fix the error `[FATAL] Failed to view version file:[/action/lib/functions/linterVersions.txt]`
 
-Added this line to test git action workflow on push.
+Added line to test git action workflow on push.
